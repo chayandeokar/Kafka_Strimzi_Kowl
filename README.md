@@ -4,3 +4,6 @@
 ### https://strimzi.io/quickstarts/
 
 ## don't forget to create your own namespace
+
+--> kubectl create namespace kafka
+--
