@@ -9,3 +9,4 @@
 --
 
 -- kubectl get ns 
+-- kubectl gs ns -A
