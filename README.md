@@ -7,3 +7,5 @@
 
 --> kubectl create namespace kafka
 --
+
+-- kubectl get ns 
